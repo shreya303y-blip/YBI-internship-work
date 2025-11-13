@@ -21,6 +21,7 @@ Seaborn
 Dataset
 
 The dataset used for this analysis contains customer purchase data during the Diwali festival season.
+
 It includes features such as:-
 
 Gender
@@ -30,6 +31,7 @@ Occupation
 Marital Status
 Product Category
 Amount Spent
+
 Key Insights:-
 
 Married women from Uttar Pradesh, Maharashtra, and Karnataka contribute most to sales.
@@ -37,6 +39,7 @@ Married women from Uttar Pradesh, Maharashtra, and Karnataka contribute most to 
 Working professionals aged 26–35 years are the top buyers.
 
 Electronics and Clothing are the highest-selling categories.
+
 Visualizations:-
 
 The project includes:
